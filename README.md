@@ -21,7 +21,8 @@ What was challenging:
     - Implementing the pantry.h file was tough
     - Understanding the signifance and creation of the pantry.h file was difficult
     - Having to deal with multiple files
+    - Creating the add, edit, and delete functions took a little bit of time to do
 
 
-Overall there's clear progress in my understanding of C++, but I still have some more to learn!
+Overall there's clear progress in my understanding of C++, but I still have some more to learn
 >>>>>>> ecbcfdf (Phase1 Done)
