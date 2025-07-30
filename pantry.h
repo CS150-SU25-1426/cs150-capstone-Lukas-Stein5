@@ -8,20 +8,12 @@ private:
     int quantity;
 
 public:
-    pantry_Item(string name, int quantity) {
-        this->name = name;
-        this->quantity = quantity;
-    }
+    pantry_Item(string name, int quantity);
 
-    string getName() const { return name; }
-    int getQuantity() const { return quantity; }
+    string getName() const;
+    int getQuantity() const;
 
-    bool operator==(const pantry_Item& other) const {
-        return name == other.name && quantity == other.quantity;
-    }
+    bool operator==(const pantry_Item& other) const;
 
-    friend ostream& operator<<(ostream& os, const pantry_Item& item) {
-        os << "Item: [" << item.name << " (" << item.quantity << ")]";
-        return os;
-    }
+    friend ostream& operator<<(ostream& os, const pantry_Item& item);
 };

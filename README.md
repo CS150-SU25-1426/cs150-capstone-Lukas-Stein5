@@ -7,7 +7,7 @@
 
 
 Outside Source:
-    Apart from referencing previous labs, I used chatGPT to assist with the implementation of the pantry.h file because that part was a little confusing to me.
+    Previous labs, especially labs 23 and 24 helped a lot with my implementation of the multiple files. I did check my code with github Copilot to correct any minor bugs.
 
 
 Summary:
@@ -20,6 +20,7 @@ What went well:
 What was challenging:
     - Implementing the pantry.h file was tough
     - Understanding the signifance and creation of the pantry.h file was difficult
+    - Having to deal with multiple files
 
 
 Overall there's clear progress in my understanding of C++, but I still have some more to learn!
